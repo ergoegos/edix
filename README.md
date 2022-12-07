@@ -1,7 +1,7 @@
 # EDIX
 El objetivo del Instituto de Expertos Digitales, es formar a los profesionales que deberán ocupar los puestos que están surgiendo en torno a lo que se conocen como tecnologías expansivas. - https://www.emprendedores.es/formacion-cursos-emprendedores-talleres/edix-empleo-era-digital/
 
-Edix. Entrenamos a los profesionales digitales que necesitan las empresas hoy. Ofrecemos formación profesional a distancia y bootcamps. - @edixeducacion
+En Edix entrenamos a los profesionales digitales que necesitan las empresas hoy - @edixeducacion
 
 
 ## CFGS DAM (2021-2022)
